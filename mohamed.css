@@ -1,0 +1,50 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;
+    background-color: black;
+  }
+  .bad {
+    background-color: lightgrey;
+    color: blue;
+  }
+  
+  h1 {
+    background-color: black;
+    color: white;
+  }
+  
+  div {
+    background-color: blue;
+    color: white;
+  }
+  .nav {
+    background-color: lightgrey;
+    color: blue;
+  }
+  
+  h1 {
+    background-color:blanchedalmond;
+    color:navajowhite;
+  }
+  
+  div {
+    background-color: rgb(212, 0, 255);
+    color: greenyellow;
+  }
+  .dett {
+    background-color: lightgrey;
+    color: blue;
+  }
+  
+  h1 {
+    background-color: black;
+    color: white;
+  }
+  
+  div {
+    background-color: blue;
+    color: white;
+  }
